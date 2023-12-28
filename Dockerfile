@@ -1,2 +1,3 @@
 FROM ubuntu:latest
-CMD echo "hello world"
+CMD echo "hello world WELCOME"
+
